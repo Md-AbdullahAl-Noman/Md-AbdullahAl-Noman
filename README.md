@@ -65,7 +65,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Md-AbdullahAl-Noman)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![](https://visitcount.itsvg.in/api?id=Noman&label=Profile%20Views&color=5&pretty=false)](https://visitcount.itsvg.in)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-AbdullahAl-Noman)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -73,4 +73,6 @@
 
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Md-AbdullahAl-Noman)  
+
+[![](https://visitcount.itsvg.in/api?id=noman&label=Profile%20Views&color=5&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
