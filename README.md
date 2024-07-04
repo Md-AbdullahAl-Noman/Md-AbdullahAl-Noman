@@ -63,16 +63,29 @@
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Md-AbdullahAl-Noman)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-AbdullahAl-Noman)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Md-AbdullahAl-Noman&show_icons=true&count_private=true)  
+## Current GitHub Stats 📊
+![Stats](https://github-readme-stats.vercel.app/api?username=Md-AbdullahAl-Noman&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-AbdullahAl-Noman&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact)
+> Check Commits below, GitHub stats are sometimes inaccurate due to caching.
+
+## GitHub Streaks 🔥
+![Streaks](http://github-readme-streak-stats.herokuapp.com?user=Md-AbdullahAl-Noman&theme=jolly&date_format=j%20M%5B%20Y%5D)
+
+<!--
+## Latest Tweet 🐦  
+[![](https://gtce.itsvg.in/api?username=VishwaGauravIn&theme=jolly&response=false)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+Twitter API pricing changes Killed this tool sadly
+-->
+
+### Thanks for Visiting my GitHub Profile!
 
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Md-AbdullahAl-Noman)  
+
+
 
 [![](https://visitcount.itsvg.in/api?id=noman&label=Profile%20Views&color=5&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
