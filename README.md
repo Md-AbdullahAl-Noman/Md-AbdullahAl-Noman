@@ -68,13 +68,15 @@
 
 
 ## Current GitHub Stats 📊
-![Stats](https://github-readme-stats.vercel.app/api?username=Md-AbdullahAl-Noman&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-AbdullahAl-Noman&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact)
-> Check Commits below, GitHub stats are sometimes inaccurate due to caching.
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<div align="center">
+<a href="https://github.com/Md-AbdullahAl-Noman">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Md-AbdullahAl-Noman&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Md-AbdullahAl-Noman&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Md-AbdullahAl-Noman&theme=2077" height="180em" />
 
-## GitHub Streaks 🔥
-![Streaks](http://github-readme-streak-stats.herokuapp.com?user=Md-AbdullahAl-Noman&theme=jolly&date_format=j%20M%5B%20Y%5D)
-
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Md-AbdullahAl-Noman&theme=2077" height="180em" />
+</div>
 <!--
 ## Latest Tweet 🐦  
 [![](https://gtce.itsvg.in/api?username=VishwaGauravIn&theme=jolly&response=false)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
