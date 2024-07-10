@@ -77,11 +77,7 @@
 
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Md-AbdullahAl-Noman&theme=2077" height="180em" />
 </div>
-<!--
-## Latest Tweet 🐦  
-[![](https://gtce.itsvg.in/api?username=VishwaGauravIn&theme=jolly&response=false)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-Twitter API pricing changes Killed this tool sadly
--->
+
 
 ### Thanks for Visiting my GitHub Profile!
 
