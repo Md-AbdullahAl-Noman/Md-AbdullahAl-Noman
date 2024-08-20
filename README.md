@@ -54,7 +54,7 @@
 
 
 - 🔭 I’m currently working on Advanced concepts in machine learning and AI. Enhancing my skills in React.js, Next.js, and Django. 
-- 🌱 I’m currently learning Next JS 
+- 🌱 I’m currently learning DSA and practicing LeetCode Problems!!
 - 📫 How to reach me: Email: noman.abdullah.al@outlook.com  
 - ⚡ Fun fact: I developed a voice-activated personal assistant that simplifies daily tasks and offers a hands-free way to interact with technology. 
 
