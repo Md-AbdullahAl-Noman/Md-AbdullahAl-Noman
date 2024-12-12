@@ -84,6 +84,7 @@ I'm **Md-AbdullahAl-Noman**, a passionate final-year Computer Science student at
 - 🔭 Working on **MERN && React Native for a new porject and to learn!**
 - 🚀 Enhancing skills in **React.js**, **Next.js**, and **My Love DSA!!**
 - 💻 Practicing **Data Structures & Algorithms** on **LeetCode**
+- 😎 I am useEffect with learning dep,not React Memo so rendering awesome knowledge 😂
 
 
 
