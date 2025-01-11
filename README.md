@@ -92,13 +92,11 @@ I'm **Md-AbdullahAl-Noman**, a passionate final-year Computer Science student at
 ## Current GitHub Stats 📊
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
-<a href="https://github.com/Md-AbdullahAl-Noman">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Md-AbdullahAl-Noman&theme=2077" height="180em" />
+<img  alt="Md-AbdullahAl-Noman's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Md-AbdullahAl-Noman?cardType=level&theme=radical&preferLogin=false" /> 
+<br> 
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Md-AbdullahAl-Noman&theme=2077" height="180em" />
+
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Md-AbdullahAl-Noman&theme=2077" height="180em" />
-
-
-
 
 
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Md-AbdullahAl-Noman&theme=2077" height="180em" />
@@ -109,8 +107,8 @@ I'm **Md-AbdullahAl-Noman**, a passionate final-year Computer Science student at
 
 </div>
 
+<h3 align="center">Thanks for Visiting my GitHub Profile!</h3>
 
-### Thanks for Visiting my GitHub Profile!
 
 
 
