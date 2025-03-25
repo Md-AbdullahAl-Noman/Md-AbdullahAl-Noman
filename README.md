@@ -1,6 +1,6 @@
 ### Hi there 👋, Welcome to my GitHub profile. This is where I share my projects, skills, and experiences. Feel free to explore and connect!
 
-## 🌐 Socials:
+## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-al-noman-ds/)
 
 ---
