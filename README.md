@@ -1,10 +1,5 @@
 ### Hi there 👋, Welcome to my GitHub profile. This is where I share my projects, skills, and experiences. Feel free to explore and connect!
 
-![Profile Image](https://lh3.googleusercontent.com/a/ACg8ocLtthat1-XzQURMPvB7ZD88SHYAufM3Ct9tkF7bOj4yrwhmPLkMm3xh_VXjmCaliHjIU6sy77khf84CTJKxWnCwsWTxVvTj=s288-c-no)
-
-I'm **Md-AbdullahAl-Noman**, a passionate final-year Computer Science student at the American International University-Bangladesh, currently maintaining a CGPA of 3.88. I'm enthusiastic about **AI, full-stack development**, and **project management**. I thrive on solving complex problems and creating innovative solutions.
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-al-noman-ds/)
 
